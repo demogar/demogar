@@ -1,4 +1,4 @@
-### Hola 👋, my name is Demóstenes García G.
+### Hola 👋, I'm Demóstenes García G.
 
 I'm a Stack Software Engineer, mainly focused on Front-End Web (React / Vue) and mobile (React Native), based in Panama City, Panama 🇵🇦.
 
