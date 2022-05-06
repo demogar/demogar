@@ -18,3 +18,5 @@ I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue
 - [Experiencia de Usuario: ¿Cómo mejorar el movimiento inesperado de contenido en el desarrollo?](https://www.demogar.com/2022/03/26/cummulative-layout-shift.html)
 - [Notas sobre el trabajo en pareja (Pairing)](https://www.demogar.com/2021/02/21/notas-sobre-trabajo-en-pareja-pairing.html)
 - [Consejos para implementar el Teletrabajo (Trabajo Remoto)](https://www.demogar.com/2020/03/13/consejos-implementar-teletrabajo-panama.html)
+
+[Read More ▶️](https://www.demogar.com/blog)
