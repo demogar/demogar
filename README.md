@@ -7,11 +7,11 @@ I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue
 - 🌐 Website: [demogar.com](https://www.demogar.com)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/demogar/)](https://www.linkedin.com/in/demogar/)
 
-## Stats 📊
+## 📊 Stats
 
 ![demogar's GitHub stats](https://github-readme-stats.vercel.app/api?username=demogar&count_private=true&theme=radical)
 
-## Blog Posts (Spanish) :pencil:
+## :pencil: Blog Posts (Spanish)
 
 - [Utilizando Arduino y una pantalla eInk para un tracker de precio de cryptos](https://www.demogar.com/2022/05/01/creando-un-crypto-price-tracker-con-arduino-eink.html)
 - [Convirtiendo el input de una webcam en ASCII art](https://www.demogar.com/2022/04/26/convirtiendo-video-en-ascii-art.html)
