@@ -13,6 +13,7 @@ I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue
 
 ## :pencil: Blog Posts (Spanish)
 
+- [Design Tokens y su utilidad](https://www.demogar.com/2022/10/14/design-tokens-y-su-utilidad.html)
 - [Utilizando Arduino y una pantalla eInk para un tracker de precio de cryptos](https://www.demogar.com/2022/05/01/creando-un-crypto-price-tracker-con-arduino-eink.html)
 - [Convirtiendo el input de una webcam en ASCII art](https://www.demogar.com/2022/04/26/convirtiendo-video-en-ascii-art.html)
 - [Experiencia de Usuario: ¿Cómo mejorar el movimiento inesperado de contenido en el desarrollo?](https://www.demogar.com/2022/03/26/cummulative-layout-shift.html)
