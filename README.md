@@ -1,6 +1,6 @@
 ### Hola 👋, I'm Demóstenes García G.
 
-I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue) and mobile (React Native), based in Panama City, Panama 🇵🇦.
+I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue / Svelte) and mobile (React Native / Expo), based in Panama City, Panama 🇵🇦.
 
 - 🔭 I’m a Software Development Consultant
 - 📫 Contact: [me@demogar.com](mailto:me@demogar.com?subject=[GitHub])
