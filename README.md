@@ -13,6 +13,7 @@ I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue
 
 ## :pencil: Blog Posts (Spanish)
 
+- [Utilizando Conventional Commits fácilmente junto al resto de tu equipo gracias a Commitizen](https://www.demogar.com/2022/11/13/conventional-commits-herramientas/)
 - [Utilizando Plop para crear plantillas y mantener un código consistente con tu equipo](https://www.demogar.com/2022/10/29/utilizando-plop-para-generacion-de-codigo/)
 - [Crear un diccionario contextualizado (móvil) con Machine Learning](https://www.demogar.com/2022/10/24/crear-un-diccionario-contextualizado-con-ml/)
 - [Design Tokens y su utilidad](https://www.demogar.com/2022/10/14/design-tokens-y-su-utilidad.html)
