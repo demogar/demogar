@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue / Svelte) and mobile (React Native / Expo), based in Panama City, Panama 🇵🇦.
 
-- 🔭 I’m a Software Development Consultant
+- 👨‍💻 I’m a Software Development Consultant
 - 📫 Contact: [me@demogar.com](mailto:me@demogar.com?subject=[GitHub])
 - 🌐 Website: [demogar.com](https://www.demogar.com)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/demogar/)](https://www.linkedin.com/in/demogar/)
