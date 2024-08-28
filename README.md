@@ -13,14 +13,9 @@ I'm a Full-Stack Software Engineer, mainly focused on Front-End Web (React / Vue
 
 ## :pencil: Blog Posts (Spanish)
 
+- [Accessbilidad: No todo es código](https://www.demogar.com/2024/08/26/accessibilidad-mas-alla-codigo/)
 - [Utilizando Conventional Commits fácilmente junto al resto de tu equipo gracias a Commitizen](https://www.demogar.com/2022/11/13/conventional-commits-herramientas/)
 - [Utilizando Plop para crear plantillas y mantener un código consistente con tu equipo](https://www.demogar.com/2022/10/29/utilizando-plop-para-generacion-de-codigo/)
 - [Crear un diccionario contextualizado (móvil) con Machine Learning](https://www.demogar.com/2022/10/24/crear-un-diccionario-contextualizado-con-ml/)
-- [Design Tokens y su utilidad](https://www.demogar.com/2022/10/14/design-tokens-y-su-utilidad.html)
-- [Utilizando Arduino y una pantalla eInk para un tracker de precio de cryptos](https://www.demogar.com/2022/05/01/creando-un-crypto-price-tracker-con-arduino-eink.html)
-- [Convirtiendo el input de una webcam en ASCII art](https://www.demogar.com/2022/04/26/convirtiendo-video-en-ascii-art.html)
-- [Experiencia de Usuario: ¿Cómo mejorar el movimiento inesperado de contenido en el desarrollo?](https://www.demogar.com/2022/03/26/cummulative-layout-shift.html)
-- [Notas sobre el trabajo en pareja (Pairing)](https://www.demogar.com/2021/02/21/notas-sobre-trabajo-en-pareja-pairing.html)
-- [Consejos para implementar el Teletrabajo (Trabajo Remoto)](https://www.demogar.com/2020/03/13/consejos-implementar-teletrabajo-panama.html)
 
-[Read More ▶️](https://www.demogar.com/blog)
+[Leer más ▶️](https://www.demogar.com/blog)
