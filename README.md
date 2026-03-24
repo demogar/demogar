@@ -22,7 +22,3 @@ I specialize in building scalable, high-quality web and mobile applications, wit
 
 I believe great software is not just about shipping fast — it’s about building systems that are scalable, maintainable, and a pleasure to use.
 I care deeply about clean architecture, strong feedback loops (tests), and thoughtful product design.
-
-## 📊 Stats
-
-![demogar's GitHub stats](https://github-readme-stats.vercel.app/api?username=demogar&count_private=true&theme=radical)
