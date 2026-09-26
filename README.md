@@ -1,24 +1,19 @@
-# Building software that scales — technically and product-wise.
+# Hi, I’m Demo 👋
 
-Hola 👋 — I’m Demóstenes García, a Software Engineering Consultant based in Panama 🇵🇦.
+I’m Demóstenes García, a Product Engineer and Fullstack Engineer from Panama 🇵🇦.
 
-I specialize in building scalable, high-quality web and mobile applications, with a strong focus on frontend architecture, performance, and user experience.
+I build web and mobile products from idea to production. My work spans Frontend architecture, Backend systems, and the product decisions that connect them. I care about understanding the problem, shipping useful software, and making it reliable and accessible for the people who use it.
 
-## About
+## What I work with
 
-- 👨‍💻 Independent Software Development Contractor
-- ⚛️ Frontend: React, Next.js, React Native / Expo
-- 🧠 Strong background in HCI, UX, and product-focused engineering
-- 🏗️ Full-stack experience with Rails, Laravel, and modern APIs
-- 🌎 Working with teams across North & Latin America
+- **Frontend:** React, Next.js, TypeScript
+- **Mobile:** React Native, Expo
+- **Backend:** Ruby on Rails, Laravel, Node.js, APIs
+- **Product engineering:** Accessibility, Design Systems, Testing (TDD), and Performance
 
-## Contact
+I’ve worked with teams across North and Latin America on products in Healthcare, SaaS, banking, and government. I’m happiest when I can work closely with a team, ask good questions, and own a problem through delivery.
 
-- 📫 Email: [me@demogar.com](mailto:me@demogar.com?subject=[GitHub])
-- 🌐 Website: [demogar.com](https://www.demogar.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/demogar/)](https://www.linkedin.com/in/demogar/)
+## Get in touch
 
-## 💡 What I Care About
-
-I believe great software is not just about shipping fast — it’s about building systems that are scalable, maintainable, and a pleasure to use.
-I care deeply about clean architecture, strong feedback loops (tests), and thoughtful product design.
+- 🌐 [demogar.com](https://www.demogar.com/)
+- 📫 [me@demogar.com](mailto:me@demogar.com?subject=%5BGitHub%5D)
